@@ -1,0 +1,16 @@
+[Task 1] Decrypt text to get flag
+
+to get flag decrypt text,
+text has been crypted on more mode
+
+[Task 2] Enter in a vulnerable server and get root permissions
+
+Use nmap to scan victim machine and use metasploit to access
+
+[Task 3] Get root on vps
+
+Hack machine and find the flag
+
+[Task 4] Owasp Vulnerable Site
+
+Use Owasp Zap and Burp Suite to scan and hack website
