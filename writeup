@@ -3,7 +3,7 @@
 to get flag decrypt text,
 text has been crypted on more mode
 
-[Task 2] Enter in a vulnerable server and get root permissions
+[Task 2] Enter in a vulnerable server
 
 Use nmap to scan victim machine and use metasploit to access
 
