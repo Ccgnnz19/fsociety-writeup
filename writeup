@@ -1,11 +1,11 @@
-[Task 2] Enter in a vulnerable server
+[Task 1] Enter in a vulnerable server
 
 Use nmap to scan victim machine and use metasploit to access
 
-[Task 3] Get root on vps
+[Task 2] Get root on vps
 
 Use nmap to scan victim machine and use hydra or other tool to take access and get root privileges using LPE (Local Privilegi Escalation)
 
-[Task 4] Owasp Vulnerable Site
+[Task 3] Owasp Vulnerable Site
 
 Use Owasp Zap and Burp Suite to scan and hack website
